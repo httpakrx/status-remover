@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["꒰ᐢ. .ᐢ꒱","always open po kami","available nitro, robux, etc.","bili ka na mwuaahh~"];
+const statusMessages = ["꒰ᐢ. .ᐢ꒱"];
 
 
 let currentIndex = 0;
